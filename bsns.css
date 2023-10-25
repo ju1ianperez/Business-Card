@@ -1,0 +1,31 @@
+body {
+    margin: 20px;
+    background-color: #3d3522;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.headshot {
+    width: 150px;
+    height: auto;
+}
+
+.card {
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30%;
+    background-color: #4a442d;
+    border-bottom: 10px solid #386150;
+    text-align: center;
+    cursor: pointer;
+}
+
+
+
+p, h4 {
+    text-align: center;
+}
